@@ -1,0 +1,8 @@
+2026-10-02 10:10:01 INFO Server started successfully from 192.168.1.10
+2026-10-02 10:11:12 INFO User login successful from 10.0.0.5
+2026-10-02 10:12:08 WARNING High number of requests from 192.168.1.10
+2026-10-02 10:13:20 ERROR Failed login from 203.0.113.10
+2026-10-02 10:14:03 ERROR Connection refused from 192.168.1.10
+2026-10-02 10:14:32 WARN Disk usage above 80 percent from 10.0.0.5
+2026-10-02 10:15:00 CRITICAL Repeated authentication failures from 192.168.1.10
+2026-10-02 10:16:17 INFO Backup completed successfully from 10.0.0.5
